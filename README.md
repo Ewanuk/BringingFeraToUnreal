@@ -5,8 +5,7 @@
 Information Flow: The Secret to Studio Structure - Jesse Schell
 > https://www.youtube.com/watch?v=y92-vkyHKbY
 
-
-https://www.youtube.com/watch?v=UaRnAXozc58 - Richard Vogel
+A Survival Guide for Game Developers - Richard Vogel
 > https://www.youtube.com/watch?v=UaRnAXozc58
 
 Alex Forsythe 
