@@ -8,7 +8,7 @@ Information Flow: The Secret to Studio Structure - Jesse Schell
 A Survival Guide for Game Developers - Richard Vogel
 > https://www.youtube.com/watch?v=UaRnAXozc58
 
-Alex Forsythe 
+Blueprints vs. C++: How They Fit Together and Why You Should Use Both - Alex Forsythe 
 > https://www.youtube.com/watch?v=VMZftEVDuCE
    
 Asset Dependency Chains: The Hidden Danger - Mark Craig
