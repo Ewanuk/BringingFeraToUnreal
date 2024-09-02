@@ -34,8 +34,15 @@ Google Docs and Google Calendar
 Clickup
 
 # Art Tools
+Z-brush
 Maya
-ZBrush
+Houdini
+Photoshop
+Blender
+Illustrator
+In Design
+After Effects
+Premiere
 
 # Plugins and Marketplace Assets
 > Gameplay Ability System: Framework for attacks, spells, buffs, status effects
