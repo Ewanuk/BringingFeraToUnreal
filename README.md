@@ -1,17 +1,22 @@
 # Unreal Fest Seattle 2024 - Bringing Fera To Unreal
 
 ## Referenced Talks
+Blueprints vs. C++: How They Fit Together and Why You Should Use Both - Alex Forsythe 
+> https://www.youtube.com/watch?v=VMZftEVDuCE
+
+Behind the Scenes of Mortal Shell
+> https://www.youtube.com/watch?v=8yLq7jlVCAY
+
 Information Flow: The Secret to Studio Structure - Jesse Schell
 > https://www.youtube.com/watch?v=y92-vkyHKbY
 
 A Survival Guide for Game Developers - Richard Vogel
 > https://www.youtube.com/watch?v=UaRnAXozc58
 
-Blueprints vs. C++: How They Fit Together and Why You Should Use Both - Alex Forsythe 
-> https://www.youtube.com/watch?v=VMZftEVDuCE
-   
 Asset Dependency Chains: The Hidden Danger - Mark Craig
 > https://www.youtube.com/watch?v=4-oRyDLfo7M
+
+
 
 ## Documentation
 Our Style Guide / Naming Conventions
