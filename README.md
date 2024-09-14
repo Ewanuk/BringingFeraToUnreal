@@ -16,7 +16,8 @@ A Survival Guide for Game Developers - Richard Vogel
 Asset Dependency Chains: The Hidden Danger - Mark Craig
 > https://www.youtube.com/watch?v=4-oRyDLfo7M
 
-
+[Unreal Engine] Architecture | Character Movement Component In-Depth
+> https://www.youtube.com/watch?v=dOkuIvKCvpg
 
 ## Documentation
 Our Style Guide / Naming Conventions
