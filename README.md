@@ -41,20 +41,20 @@ FMOD (Audio Middleware)
 > https://www.fmod.com/
 
 ## Collaboration
-Slack
-Google Web Tools (Docs/Calendar etc.)
-Clickup (Project Planning)
+- Slack
+- Google Web Tools (Docs/Calendar etc.)
+- Clickup (Project Planning)
 
 ## Art Tools
-Z-brush
-Maya
-Houdini
-Photoshop
-Blender
-Illustrator
-In Design
-After Effects
-Premiere
+- Z-brush
+- Maya
+- Houdini
+- Photoshop
+- Blender
+- Illustrator
+- In Design
+- After Effects
+- Premiere
 
 ## Recommended Plugins and Marketplace Assets
 Gameplay Ability System: Framework for attacks, spells, buffs, status effects
