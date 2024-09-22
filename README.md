@@ -1,6 +1,8 @@
 # Unreal Fest Seattle 2024 - Bringing Fera To Unreal
 
-## Referenced Talks
+## Inspiring Talks
+Various talks that inspired this talk and were generally very useful to when adapting our company to Unreal
+
 Blueprints vs. C++: How They Fit Together and Why You Should Use Both - Alex Forsythe 
 > https://www.youtube.com/watch?v=VMZftEVDuCE
 
@@ -10,13 +12,10 @@ Behind the Scenes of Mortal Shell
 Information Flow: The Secret to Studio Structure - Jesse Schell
 > https://www.youtube.com/watch?v=y92-vkyHKbY
 
-A Survival Guide for Game Developers - Richard Vogel
-> https://www.youtube.com/watch?v=UaRnAXozc58
-
 Asset Dependency Chains: The Hidden Danger - Mark Craig
 > https://www.youtube.com/watch?v=4-oRyDLfo7M
 
-[Unreal Engine] Architecture | Character Movement Component In-Depth
+Unreal Engine Architecture | Character Movement Component In-Depth
 > https://www.youtube.com/watch?v=dOkuIvKCvpg
 
 ## Documentation
@@ -58,6 +57,11 @@ After Effects
 Premiere
 
 ## Recommended Plugins and Marketplace Assets
-> Gameplay Ability System: Framework for attacks, spells, buffs, status effects
-> GAS Companion: Takes care of the C++ boilerplate required by GAS and gets you started fast
-> Electronic Nodes: Keeps those blueprints readable
+Gameplay Ability System: Framework for attacks, spells, buffs, status effects
+> https://dev.epicgames.com/documentation/en-us/unreal-engine/understanding-the-unreal-engine-gameplay-ability-system
+
+GAS Companion: Takes care of the C++ boilerplate required by GAS and gets you started fast
+> https://www.unrealengine.com/marketplace/en-US/product/gas-companion
+
+Electronic Nodes: Keeps those blueprints readable
+> https://www.unrealengine.com/marketplace/en-US/product/electronic-nodes
